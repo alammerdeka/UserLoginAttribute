@@ -1,12 +1,4 @@
 
-import 'package:flushbar/flushbar.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter_login_regis_provider/domain/user.dart';
-import 'package:flutter_login_regis_provider/providers/auth_provider.dart';
-import 'package:flutter_login_regis_provider/providers/user_provider.dart';
-import 'package:flutter_login_regis_provider/utility/validator.dart';
-import 'package:flutter_login_regis_provider/utility/widgets.dart';
-import 'package:provider/provider.dart';
 
 class Login extends StatefulWidget {
   @override
