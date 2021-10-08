@@ -1,6 +1,5 @@
 
-import 'package:flutter/cupertino.dart';
-import 'package:flutter_login_regis_provider/domain/user.dart';
+
 
 class UserProvider extends ChangeNotifier{
 
